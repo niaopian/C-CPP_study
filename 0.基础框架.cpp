@@ -3,7 +3,7 @@
 #include <iostream>      // C++中的输入输出流
 using namespace std;     // C++中cout(),std()等函数命名空间 
 
-int main(void)           // C  中的main函数
+//int main(void)            C  中的main函数
 int main()               // C++中的main函数
 {
 
